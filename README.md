@@ -5,7 +5,7 @@
 <h2>👨‍💻 Python Projects:</h2>
 
 - <b>Spreadsheet Data Analysis (CFG Project)</b>
-  - [Practicing analysis of sales data in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing analysis of sales data in Python](https://github.com/ryyn99/CFG-Data-Analysis)
 
 <h2>⚡ Certifications:</h2>
 - <b>CFG Introduction to Python and Apps</b>
