@@ -8,6 +8,8 @@
 
 - <b>[Basic Password Generator](https://github.com/ryyn99/Basic-Password-Generator)</b>
 
+- <b>[Recipe Search API](https://github.com/ryyn99/Recipe-Search-API/blob/main/README.md)</b>
+
 <h2>⚡ Certifications:</h2>
 - <b>CFG Introduction to Python and Apps</b>
 
