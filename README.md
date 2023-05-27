@@ -14,7 +14,6 @@
 - <b>CFG Introduction to Python and Apps</b>
 
 <h2>👾 Websites: </h2>
-  <li><a href="http://127.0.0.1:5500/#" target="_blank">Coding Portfolio</a></li>
   <li><a href="https://rachelyyng99.wixsite.com/madeofmetaphors" target="_blank">Creative & Artistic Portolio</a></li>
 
 
