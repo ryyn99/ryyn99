@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rachel! <br/>Programmer & Educator</br>
+<h1>Hi, I'm Rachel! <br/>Teaching & Tech</br>
 
 
 
